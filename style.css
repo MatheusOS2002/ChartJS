@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    justify-content: center
+}
+
+.graficos {
+    width: 1000px;
+    height: 1000px;
+}
